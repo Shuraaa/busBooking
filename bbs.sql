@@ -6,7 +6,7 @@ USE `bus_booking`;
 
 -- -----------------------------------------------------------------
 
-SELECT * FROM `roles`;
+SELECT * FROM `role`;
 SELECT * FROM `users`;
 SELECT * FROM `routes`;
 SELECT * FROM `buses`;
